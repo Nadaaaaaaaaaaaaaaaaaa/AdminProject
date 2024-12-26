@@ -3,7 +3,7 @@ const app = express();
 
 // Define a route for the root URL
 app.get('/', (req, res) => {
-    res.send('<h1> ISIMM 24/25 : ING2 </h1>');
+    res.send('<h1> ISIMM 24/25 : ING2 – Semester 1</h1>');
 });
 
 // Export the app module
